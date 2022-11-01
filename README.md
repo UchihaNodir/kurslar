@@ -1,0 +1,2 @@
+# kurslar
+all kurslar
